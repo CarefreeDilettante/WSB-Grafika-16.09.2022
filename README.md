@@ -18,7 +18,7 @@ Ale pizza, którą wszyscy znamy dzisiaj, z sosem pomidorowym, serem i licznymi 
    Sushi to najsłynniejszy przedstawiciel kulinarny Japonii, zwykle przyrządzany z ryżu i nadzienia zawiniętego w arkusz suchych wodorostów. Jednak termin sushi jest w rzeczywistości terminem parasolowym obejmującym szeroką gamę pododmian, które mogą być wykonane z niezliczonych różnych składników i w tylu formach i prezentacjach.
 Choć danie stało się błędnie synonimem surowej ryby, podstawowym składnikiem każdego rodzaju sushi jest tylko ryż w occie. Pierwotnie sushi było tylko metodą konserwowania ryb - najpierw rozwinęła się w Azji Południowo-Wschodniej, ale dotarła do Japonii w VIII wieku.
 
-   ![Sushi](https://github.com/CarefreeDilettante/WSB-Grafika-16.09.2022/tree/main/obraz/sushi.jpg "Sushi")
+   ![Sushi](https://github.com/CarefreeDilettante/WSB-Grafika-16.09.2022/blob/61aaded2ced4add89446262ca029bff6666b93f0/obraz/sushi.jpg "Sushi")
 
 3. Burger
 
